@@ -1,3 +1,0 @@
-## Test Intro ##
-
-Intro text
